@@ -8,6 +8,11 @@ Welcome to my **Final Project** for the Harvard course CS50x. The app that I hav
 
 ## Technologies I have used
 
+For this project I have mainly used an Apple framework for writing on Swift called SwiftUI. To be more precise, I have used the following things from SwiftUI: 
+
+- SwiftData - for storing Users information
+- DatePicker - for picking the appropriate time
+- Lists, VStacks, NavigationStacks - for general strcture of the app
 
 
 > [!NOTE]
