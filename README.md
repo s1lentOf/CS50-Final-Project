@@ -23,7 +23,18 @@ For this project I have mainly used an Apple framework for writing on Swift call
 > [!NOTE]
 > Currently, this app does not send you any reminders (or so called 'Push notifications'), because it requires the Apple Developer account, which I can not but at the moment.
 
-## 
+## Some troubles
+The first thing that brought me the most difficulties was the idea of implementing the possibility to add new types. However, then I decided to create a new model for types: 
+'@Model
+class StaffType: Identifiable {
+    var name: String
+    var emoji: String
+    
+    init(name: String, emoji: String) {
+        self.name = name
+        self.emoji = emoji
+    }
+}' 
 
 
 
