@@ -3,7 +3,7 @@
 Simple and efficient tool to help you manage your tasks and stay organized!
 
 ## Brief description
-Welcome to my **Final Project** for the Harvard course CS50x. The app that I have created is called *'ToDoApp'*. As the name implies, it helps fellas keep track of the routine tasks. Moreover, it rememebers all tasks you have accomplished, so you can come back to the history and see your path. 
+Welcome to my **Final Project** for the Harvard course CS50. The app that I have created is called *'ToDoApp'*. As the name implies, it helps fellas keep track of the routine tasks. Moreover, it rememebers all tasks you have accomplished, so you can come back to the history and see your path. 
 
 ## Features
 - 📝 Add, Edit, and Delete Tasks.
@@ -14,7 +14,7 @@ Welcome to my **Final Project** for the Harvard course CS50x. The app that I hav
 
 ## Prologue
 
-One day, I was surfing the Internet to find interesting technologies to learn. I went to [Apple.com](https://www.apple.com/) and found out about an event that they hold annualy. It is called [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). I was soo amazed by that, I immediately started to find some interesting courses about this programming language. That's how I found a [*Hacking With Swift*](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson.
+One day, I was surfing the Internet to find interesting technologies to learn. I went to [Apple.com](https://www.apple.com/) and found out about an event that they hold annualy. It is called [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/). I was soo amazed by that, I immediately started to find some interesting courses about this programming language. That's how I found a [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson.
 It was the first time I met **Swift** and since then, I am really amazing about this programming language and in general about everything what **Apple** creates.
 
 > [!IMPORTANT]
@@ -69,9 +69,16 @@ var combinedTypes: [String] {
 }
 ```
 
+## Epilogue
+
+To sum up, it was an interesting *adventure* in the IT field, while taking the **CS50 Course**. This course gave me a basic understanding of computer science, from programming fundamentals to more complex topics like algorithms and data structures. It challenged me to think critically and problem-solve in ways I had never done before. Along the way, I gained hands-on experience with various programming languages, tools, and techniques, all of which have broadened my understanding of the digital world. This journey has not only strengthened my technical skills but also sparked a deeper curiosity to continue learning and exploring the vast field of computer science. I am excited to apply what I’ve learned and take on new challenges in the future.
+
+> [!IMPORTANT]
+> I wanted to thank David J. Malan and other Staff of the **CS50 Course** for your incredible work. Your engaging lectures and passion for teaching make complex concepts accessible and inspiring. I'm truly grateful for your dedication and the impact you've had on my learning experience.
 
 
 
 
 
 
+ 
