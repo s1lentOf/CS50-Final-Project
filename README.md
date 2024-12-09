@@ -1,8 +1,8 @@
 # 📋 My ToDo App
 
-https://github.com/user-attachments/assets/da852794-5ae0-4af6-a8f3-cd2569c3df99
-
 Simple and efficient tool to help you manage your tasks and stay organized!
+
+https://github.com/user-attachments/assets/da852794-5ae0-4af6-a8f3-cd2569c3df99
 
 ## Brief description
 Welcome to my **Final Project** for the Harvard course CS50. The app that I have created is called *'ToDoApp'*. As the name implies, it helps fellas keep track of the routine tasks. Moreover, it rememebers all tasks you have accomplished, so you can come back to the history and see your path. 
