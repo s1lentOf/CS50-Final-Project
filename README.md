@@ -25,7 +25,8 @@ For this project I have mainly used an Apple framework for writing on Swift call
 
 ## Some troubles
 The first thing that brought me the most difficulties was the idea of implementing the possibility to add new types. However, then I decided to create a new model for types: 
-'@Model
+'''
+@Model
 class StaffType: Identifiable {
     var name: String
     var emoji: String
@@ -34,7 +35,8 @@ class StaffType: Identifiable {
         self.name = name
         self.emoji = emoji
     }
-}' 
+}
+''' 
 
 
 
