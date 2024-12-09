@@ -26,7 +26,7 @@ For this project I have mainly used an Apple framework for writing on Swift call
 ## Some troubles
 The first thing that brought me the most difficulties was the idea of implementing the possibility to add new types. However, then I decided to create a new model for types: 
 
-```swiftui
+```swift
 @Model
 class StaffType: Identifiable {
     var name: String
@@ -39,6 +39,27 @@ class StaffType: Identifiable {
 }
 ```
 
+I added some default types, which user I can select:
+```swift
+@State private var typesDefault = [
+            "Personal",
+            "Work or Professional",
+            "Household Chores",
+            "Self-Improvement Tasks",
+            "Pet Care Tasks",
+            "Long-Term Goals",
+            "Creative or Hobby Tasks",
+            "Social or Relationship Tasks"
+]
+```
+
+I created computed property which combines unique elements from two array, that's why I use `Set()`:
+```
+var combinedTypes: [String] {
+    let dynamicTypes = types.map { $0.name }
+    return Set(dynamicTypes + typesDefault).sorted()
+}
+```
 
 
 
